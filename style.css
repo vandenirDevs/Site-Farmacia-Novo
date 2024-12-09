@@ -373,6 +373,9 @@ footer {
     .servicos-box {
         width: 100%;
     }
+    .bar1, .bar2, .bar3 {
+        margin-right: 2rem;
+    }
 }
 @media (max-width: 400px) {
     .inicio-img, .sobre-img {
@@ -390,6 +393,7 @@ footer {
     .filiais-layer {
         max-width: 80%;
     }
+    
 }
 @media (min-width: 430px) {
     .inicio-img,.sobre-img {
@@ -412,6 +416,7 @@ footer {
     .filiais-layer {
         max-width: 100%;
     }
+
 }
 /* extra small (xs): Smartphone (landscape) */
 @media (min-width: 576px) {
